@@ -74,3 +74,4 @@
 /Users/zubeyryavas/Desktop/tutorial10/tutorial10/tutorial10/obj/Debug/net7.0/tutorial10.pdb
 /Users/zubeyryavas/Desktop/tutorial10/tutorial10/tutorial10/obj/Debug/net7.0/tutorial10.genruntimeconfig.cache
 /Users/zubeyryavas/Desktop/tutorial10/tutorial10/tutorial10/obj/Debug/net7.0/ref/tutorial10.dll
+/Users/zubeyryavas/Desktop/tutorial10/tutorial10/tutorial10/obj/Debug/net7.0/tutorial10.sourcelink.json

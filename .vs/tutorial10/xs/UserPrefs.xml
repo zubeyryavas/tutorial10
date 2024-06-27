@@ -1,24 +1,18 @@
 ﻿<Properties StartupConfiguration="{8016D98B-F29A-4F24-8FAF-8AE67FFAA538}|https">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tutorial10/Controllers/AccountsController.cs">
+    <Files>
+      <File FileName="tutorial10/Program.cs" />
+      <File FileName="tutorial10/Controllers/AccountsController.cs" Line="17" Column="5" />
+      <File FileName="tutorial10/Models/AuthUser/RefreshTokenRequest.cs" />
+      <File FileName="tutorial10/Models/S20697Context.cs" />
+      <File FileName="tutorial10/Models/Prescription_Medicament.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="tutorial10" expanded="True">
-            <Node name="tutorial10" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.tutorial10 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.tutorial10 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
